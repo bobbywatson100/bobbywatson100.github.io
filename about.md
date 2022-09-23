@@ -14,3 +14,5 @@ Themes discussed on this blog:
 - Whatever else goes through my mind that I don't mind sharing publicly
 
 The game I am currently making is a mix of visual novel, dating sim, and tactical, turn-based beach soccer. I think I was in the middle of my second rewatch of *Ted Lasso* when I came up with it.
+
+The current layout of this blog is still a WIP, and will change over time.
