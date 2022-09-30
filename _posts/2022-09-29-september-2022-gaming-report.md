@@ -40,7 +40,7 @@ None
 ### Ramblings
 Another slow month for me in terms of videogames. Again, lots of running and some biking though!
 
-I received the email to order a Steam Deck and, after thinking about it for an hour or two, I went ahead with the purchase. For some reason, orders for Canada are slow to ship, so who knows when I'm actually going to get it. I have a trip planned for Thanksgiving weekend, and I was hoping to get it before then, but that doesn't seem very likely at this point.
+I received the email to order a Steam Deck and, after thinking about it for an hour or two, I went ahead with the purchase. For some reason, orders for Canada are slow to ship, so who knows when I'm actually going to get it. I have a trip planned for Thanksgiving weekend, and I was hoping to get it before then, but that doesn't seem very likely at this point. **Edit**: It has now shipped and should be here Tuesday, October 4th, a few days ahead of my trip.
 
 One of the reasons for me to get the Steam Deck is that I am finally getting back into game development and will be using it for testing. I've been documenting my progress on this very blog. Progress is slow, but has been picking up recently. 
 
