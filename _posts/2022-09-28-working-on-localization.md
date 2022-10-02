@@ -24,7 +24,7 @@ My biggest problem was the creation of the CSV files themselves. I needed a way 
 3. Retrieve the various IDs and the text strings associated with those IDs
 3. Add or update a CSV file with those IDs and text strings
 
-I decided to write a plugin to accomplish this. With a small amount of googling, I was able to add an item Godot's Project > Tools menu. 
+I decided to write a plugin to accomplish this. With a small amount of googling, I was able to add an item to `Godot's Project > Tools` menu. 
 
 ![Dialog In Progress](/assets/images/20221001_02.png)
 

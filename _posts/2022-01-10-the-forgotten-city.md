@@ -1,5 +1,5 @@
 ---
-title: "The Forgotten City"
+title: "*The Forgotten City*"
 date: "2022-01-10 12:11:06"
 categories: reviews
 ---
