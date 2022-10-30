@@ -45,3 +45,4 @@ With my work contract being over, my projects for the rest of the year are:
 - Complete the conversion to Godot 4 of my earlier game development efforts
 - Practice drawing (mostly gesture)
 - Hit the gym every day
+- Finish layout and design of this very blog
