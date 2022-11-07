@@ -4,7 +4,7 @@ date: 2022-09-29 00:00:00"
 categories: random-thoughts
 ---
 
-Summer is now officially over, the friend/temporary roommate who had been living with me for the past four months had to go back home because his visitor's visa expired (lots of tears were shed), my work contract is ending in 2 weeks (although I do expect a short extension), and I bought a Steam Deck (which I hasn't shipped yet), so hopefully I get to play more in the near future! But for now, it's time for the September report!
+Summer is now officially over, the friend/temporary roommate who had been living with me for the past four months had to go back home because his visitor's visa expired (lots of tears were shed), my work contract is ending in 2 weeks (although I do expect a short extension), and I bought a Steam Deck (which hasn't shipped yet), so hopefully I get to play more in the near future! But for now, it's time for the September report!
 
 ### Purchased
 - Stray (PS5, thanks to PS+)
