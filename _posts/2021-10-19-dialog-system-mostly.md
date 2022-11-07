@@ -1,7 +1,7 @@
 ---
 title: "Dialog system is mostly complete"
 date: "2021-10-19 10:00:53"
-categories: gamedev godot SABSL
+categories: gamedev
 ---
 After weeks of little to no activity on the gamedev front, I finally sat down on Sunday and Monday to work on the dialog system. After several attempts at tree traversal algorithms, I googled 'tree traversal', and voilà! I found a simple C program that I was able to use as reference.
 

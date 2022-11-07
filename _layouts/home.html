@@ -2,29 +2,30 @@
 layout: default
 ---
 
-<div class="home">
 
-  {{ content }}
+{%- if site.posts.size > 0 -%}
+  {%- for post in paginator.posts -%}
 
-  {%- if site.posts.size > 0 -%}
+    <div class="blog-post">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      
+      <h1>{{ post.title | markdownify }}</h1>
+      <span class="post-meta date">{{ post.date | date: date_format }}</span>
+
+      {{ post.content }}
     
-      {%- for post in paginator.posts -%}
+      <p class="categories-list">Categories:
+        {% for category in post.categories %}
+          {{ category }}
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </p>
+    </div>
 
-      <div class="blog-post-content">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        
-        <h1>{{ post.title | escape | markdownify}}</h1>
-        <span class="post-meta date">{{ post.date | date: date_format }}</span>
+  {%- endfor -%}
+{%- endif -%}
 
-          {{ post.content }}
-      </div>
-
-      {%- endfor -%}
-
-    <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
-  {%- endif -%}
-
-  <!-- Pagination links -->
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -41,6 +42,4 @@ layout: default
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
-
 </div>

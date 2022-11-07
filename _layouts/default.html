@@ -1,5 +1,21 @@
+<!doctype html>
+<html>
+
 {% include header.html %}
 
-{{ content }}
+<body>
+{% include navigation.html %}
+
+<div class="row">
+    <div class="leftcolumn">
+        {{ content }}
+    </div>
+    <div class="rightcolumn">
+        {% include sidebar.html %}
+    </div>
+</div>
 
 {% include footer.html %}
+
+</body>
+</html>

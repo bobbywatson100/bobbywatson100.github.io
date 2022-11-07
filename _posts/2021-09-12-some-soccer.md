@@ -1,7 +1,7 @@
 ---
 title: "Some soccer, sort-of..."
 date: "2021-09-12 22:06:36"
-categories: gamedev godot SABSL
+categories: gamedev
 ---
 It took some time, but I got something that vaguely looks like a soccer game showing up:
 

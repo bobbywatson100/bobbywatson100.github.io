@@ -1,7 +1,7 @@
 ---
 title: "Working on Localization"
 date: 2022-09-28 00:00:00"
-categories: godot gamedev SABSL
+categories: gamedev
 ---
 
 Whatever I'm working on a project, the issue of translation is always high up on my priority list. Living in a bilingual environment most likely has something to do with it. The exception to this rule of mine is this blog. 

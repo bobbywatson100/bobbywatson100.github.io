@@ -1,0 +1,6 @@
+- name: Persona 3 Portable
+  platform: PSP
+- name: Live-A-Live
+  platform: SW
+- name: "The Legend of Heroes: Trails of Cold Steel III"
+  platform: PC

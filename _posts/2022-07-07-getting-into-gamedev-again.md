@@ -1,7 +1,7 @@
 ---
 title: "Getting Into Game Dev Again"
 date: "2022-07-07 18:13:08"
-categories: godot gamedev SABSL
+categories: gamedev
 ---
 After months of not working on my turn-based beach soccer game (except to give it some thought once in a while), I decided to go back to it today. (Work has been nothing but all-day meetings for weeks, and I got bored.)
 

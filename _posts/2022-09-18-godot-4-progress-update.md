@@ -1,7 +1,7 @@
 ---
 title: "Godot 4 porting progress update!"
 date: 2022-09-18 18:59:44"
-categories: godot gamedev SABSL
+categories: gamedev
 ---
 
 This took more time than I thought (mostly because I spent my summer biking, hiking, walking, and playing videogames), but I finished rewriting my dialog system for Godot 4 today! I still need to do some work to get localizations working, but for the most part, this is functional!

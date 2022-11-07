@@ -1,7 +1,7 @@
 ---
 title: "Pre-match scene"
 date: "2021-09-06 20:46:22"
-categories: gamedev godot SABSL
+categories: gamedev
 ---
 
 Before every match in the game, the player can walk around the changing room and talk to the other players. This is a simple one that I threw together with some sprites I generated from a generic tool and simple models I created in Blender:

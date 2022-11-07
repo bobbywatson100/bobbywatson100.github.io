@@ -1,0 +1,28 @@
+
+<div class="sidebar-frame">
+    <h3>Pages</h3>
+    <ul class="pages">
+        <li><a href="/">Blog</a></li>
+        <li><a href="/about.html">About</a></li>
+    </ul>
+</div>
+<br />
+
+<div class="sidebar-frame">
+    <h3>Current tasks:</h3>
+    <ul class="tasklist">
+        {% for item in site.data.dev_tasks %}
+            <li>{{ item.name }}</li>
+        {% endfor %}
+    </ul>
+</div>
+<br />
+
+<div class="sidebar-frame">
+    <h3>Currently playing:</h3>
+    <ul class="tasklist">
+        {% for item in site.data.currently_playing %}
+            <li><em>{{ item.name }}</em> ({{ item.platform }})</li>
+        {% endfor %}
+    </ul>
+</div>
