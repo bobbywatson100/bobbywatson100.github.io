@@ -2,4 +2,4 @@
 - name: Background image for visual novel sections
 - name: Hiding/showing animations for name tags, character portraits, and dialog box
 - name: Start import of exploration scenes
-- Name: Import autoload audio player class from 3.x test project
+- name: Import autoload audio player class from 3.x test project
