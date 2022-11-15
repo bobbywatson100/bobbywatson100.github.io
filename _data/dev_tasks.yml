@@ -1,5 +1,5 @@
-- name: Decide how to store game scenario and dialog data
-- name: Background image for visual novel sections
-- name: Hiding/showing animations for name tags, character portraits, and dialog box
-- name: Start import of exploration scenes
-- name: Import autoload audio player class from 3.x test project
+- name: Import autoload audio player class from Godot 3 test project
+- name: Implement character sprite classes in Godot 4
+- name: Godot 4 version of explorable 3D scenes
+- name: Start import of tactical soccer scenes from Godot 3 test project
+- name: Decide how to store game scenario and dialog data & write script to test
