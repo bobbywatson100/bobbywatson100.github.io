@@ -1,6 +1,12 @@
+- name: Tomb Raider II (1997)
+  platform: PC
 - name: Persona 3 Portable
   platform: PSP
 - name: Live-A-Live
   platform: SW
 - name: "The Legend of Heroes: Trails of Cold Steel III"
+  platform: PC
+- name: Final Fantasy X Remaster
+  platform: PC
+- name: "Utawarerumono: Prelude to the Fallen"
   platform: PC
