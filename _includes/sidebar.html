@@ -10,9 +10,9 @@
 <br />
 
 <div class="sidebar-frame">
-    <h3>Current tasks:</h3>
+    <h3>My to-do list:</h3>
     <ul class="tasklist">
-        {% for item in site.data.dev_tasks %}
+        {% for item in site.data.to_do_list %}
             <li>{{ item.name }}</li>
         {% endfor %}
     </ul>
