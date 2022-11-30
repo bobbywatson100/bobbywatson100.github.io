@@ -1,8 +1,8 @@
 - name: Persona 3 Portable
   platform: PSP
-- name: "The Legend of Heroes: Trails of Cold Steel III"
-  platform: PC
 - name: Final Fantasy X Remaster
   platform: PC
 - name: "Utawarerumono: Prelude to the Fallen"
   platform: PC
+- name: "Oceanhorn 2"
+  platform: Apple Arcade
