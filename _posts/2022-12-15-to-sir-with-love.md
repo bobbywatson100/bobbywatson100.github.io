@@ -1,7 +1,7 @@
 ---
 title: "To Sir, With Love"
 date: 2022-12-17 00:00:00"
-categories: random-thoughts
+categories: TV
 ---
 
 For whatever reason, over the past two or three years, I've watched a fairly big number of TV shows from Thailand. Once in a while I find one that is actually good (*A Tale of a Thousand Stars* comes to mind), but usually they're... mediocre. 
