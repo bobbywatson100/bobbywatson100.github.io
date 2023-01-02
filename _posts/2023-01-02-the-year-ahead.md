@@ -4,7 +4,7 @@ date: 2023-01-02 00:00:00"
 categories: random-thoughts
 ---
 
-Despite the world in 2022 being kind of a shitshow, and some family things adding another later of crap to the mix, I have to say 2022 was a pretty good year for me. 
+Despite the world in 2022 being kind of a shitshow, and some family things adding another layer of crap to the mix, I have to say 2022 was a pretty good year for me. 
 
 When I quit my previous contract in April 2021, I thought it would take me two or three months to find another one. It ended up taking 10. When my contract ended in October 2022 (after multiple extensions), I was expecting the same amount of downtime. It turns out it only took two months, and I'm starting another job next week. (Which reminds me that I still have not tested the VPN access I got two weeks ago.)
 
