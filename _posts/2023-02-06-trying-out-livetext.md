@@ -16,6 +16,6 @@ So I went ahead and tested it out with the introduction of one of his novels, *L
 
 I took a photo of each of the 7 pages with my iPhone, AirDropped them on my MacBook Air, opened them in Preview. I was able to select the text (as I would in Word), copy it, and paste it in a Scrivener document. I re-read the whole thing, added/removed italics as needed, added section breaks where they should have been, and voilà! I had the whole thing done in about 20 minutes.
 
-I had never used it before but, I have to admit, LiveText works *really* well, even on a book printed in 1977 with yellowed pages.
+I had never used it before but, I have to admit, LiveText works *really* well, even on a book printed in 1971 with yellowed pages.
 
 So, yeah, great work Apple!
