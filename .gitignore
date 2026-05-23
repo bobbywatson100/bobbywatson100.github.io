@@ -5,3 +5,6 @@ _site
 vendor
 Gemfile.lock
 
+# macOS specific ignores
+**/.DS_Store
+
