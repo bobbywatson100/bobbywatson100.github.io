@@ -4,7 +4,7 @@ title:  "Post-Mortem"
 date:   2026-06-23 12:04:40 -0400
 categories: naval-battle update
 ---
-Despite the two months of silence (give or take a few days), the battle ship game I was building for my dad is now pretty much finished! Most items on the "nice to have" list that did not make it to the final product. I expect my dad will have a few requests in the future that will require updates. There is also a minor visual bug that I find annoying that I have been unable to fix, but I doubt my dad will even notice. For now though, I am considering this project as done. It is available to play to anyone from my GitHub pages site: https://bobbywatson100.github.io/bship . Give it a try if you have a few minutes to spare!
+Despite the two months of silence (give or take a few days), the battle ship game I was building for my dad is now pretty much finished! Most items on the "nice to have" list did not make it to the final product. I expect my dad will have a few requests in the future that will require updates. There is also a minor visual bug that I find annoying that I have been unable to fix, but I doubt my dad will even notice. For now though, I am considering this project as done. It is available to play to anyone from my GitHub pages site: https://bobbywatson100.github.io/bship . Give it a try if you have a few minutes to spare!
 
 This means it's time for me to look back on the whole thing and evaluate how things went!
 
